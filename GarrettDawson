@@ -1,4 +1,4 @@
-# Garrett-Dawson
+# GarrettDawson
 
 ### Hi there 👋, my name is Garrett
 #### Im a Junior Front-End Developer and Designer 
